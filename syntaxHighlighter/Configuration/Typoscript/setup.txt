@@ -1,0 +1,15 @@
+page.includeJS {
+	tx_exlcontentelements_shCore = EXT:exl_contentelements/syntaxHighlighter/Resources/Javascript/sh/shCore.js
+	tx_exlcontentelements_shPlain = EXT:exl_contentelements/syntaxHighlighter/Resources/Javascript/sh/shBrushPlain.js
+	tx_exlcontentelements_shJs = EXT:exl_contentelements/syntaxHighlighter/Resources/Javascript/sh/shBrushJScript.js
+	tx_exlcontentelements_shTs = EXT:exl_contentelements/syntaxHighlighter/Resources/Javascript/sh/shBrushTyposcript.js
+	tx_exlcontentelements_shCss = EXT:exl_contentelements/syntaxHighlighter/Resources/Javascript/sh/shBrushCss.js
+	tx_exlcontentelements_shXml = EXT:exl_contentelements/syntaxHighlighter/Resources/Javascript/sh/shBrushXml.js
+	tx_exlcontentelements_shSql = EXT:exl_contentelements/syntaxHighlighter/Resources/Javascript/sh/shBrushSql.js
+	tx_exlcontentelements_shPhp = EXT:exl_contentelements/syntaxHighlighter/Resources/Javascript/sh/shBrushPhp.js
+	tx_exlcontentelements_shMain = EXT:exl_contentelements/syntaxHighlighter/Resources/Javascript/shMainScript.js
+}
+
+page.includeCSS {
+	tx_exlcontentelements_shCss = EXT:exl_contentelements/syntaxHighlighter/Resources/StyleSheets/shCoreDefault.css
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Coloration syntaxique</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tt_content.syntaxHighlighter.title">Syntax Highlighter</label>
+			<label index="tt_content.syntaxHighlighter.description">Insert code in your pages (Typoscript, PHP, JS, HTML, CSS...).</label>
+
+			<label index="flexform.syntaxHighlighter.codearea">Code</label>
+			<label index="flexform.syntaxHighlighter.language">Language</label>
+			<label index="flexform.syntaxHighlighter.htmlscript">HTML Script ? (if language isn't HTML)</label>
+			<label index="flexform.syntaxHighlighter.firstline">Start at line :</label>
+			<label index="flexform.syntaxHighlighter.highlight">Highlight lines (ex: 5, 6, 8)</label>
+		</languageKey>
+		<languageKey index="fr" type="array">
+			<label index="tt_content.syntaxHighlighter.title">Syntax Highlighter</label>
+			<label index="tt_content.syntaxHighlighter.description">Insertion de code (Typoscript, PHP, JS, HTML, CSS...).</label>
+
+			<label index="flexform.syntaxHighlighter.codearea">Code</label>
+			<label index="flexform.syntaxHighlighter.language">Langage</label>
+			<label index="flexform.syntaxHighlighter.htmlscript">Votre script contient-il du HTML? (hors langage HTML)</label>
+			<label index="flexform.syntaxHighlighter.firstline">Commencer à la ligne :</label>
+			<label index="flexform.syntaxHighlighter.highlight">Mettre en avant des lignes (ex: 5, 6, 8)</label>
+		</languageKey>
+	</data>
+</T3locallang>

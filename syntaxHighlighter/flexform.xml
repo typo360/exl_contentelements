@@ -1,0 +1,88 @@
+<T3DataStructure>
+	<ROOT>
+		<type>array</type>
+		<el>
+			<language>
+				<TCEforms>
+					<label>LLL:EXT:exl_contentelements/syntaxHighlighter/locallang.xml:flexform.syntaxHighlighter.language</label>
+					<config>
+						<type>select</type>
+						<items type="array">
+							<numIndex index="0" type="array">
+					            <numIndex index="0">Autre</numIndex>
+					            <numIndex index="1">plain</numIndex>
+					        </numIndex>
+					        <numIndex index="4" type="array">
+					            <numIndex index="0">CSS</numIndex>
+					            <numIndex index="1">css</numIndex>
+					        </numIndex>
+					        <numIndex index="3" type="array">
+					            <numIndex index="0">HTML</numIndex>
+					            <numIndex index="1">html</numIndex>
+					        </numIndex>
+					        <numIndex index="2" type="array">
+					            <numIndex index="0">Javascript</numIndex>
+					            <numIndex index="1">js</numIndex>
+					        </numIndex>
+					        <numIndex index="1" type="array">
+					            <numIndex index="0">PHP</numIndex>
+					            <numIndex index="1">php</numIndex>
+					        </numIndex>
+							<numIndex index="7" type="array">
+					            <numIndex index="0">SQL</numIndex>
+					            <numIndex index="1">sql</numIndex>
+					        </numIndex>
+							<numIndex index="5" type="array">
+					            <numIndex index="0">Typoscript</numIndex>
+					            <numIndex index="1">typoscript</numIndex>
+					        </numIndex>
+							<numIndex index="6" type="array">
+					            <numIndex index="0">XML</numIndex>
+					            <numIndex index="1">xml</numIndex>
+					        </numIndex>
+						</items>
+					</config>
+				</TCEforms>
+			</language>
+			<htmlscript>
+				<TCEforms>
+					<label>LLL:EXT:exl_contentelements/syntaxHighlighter/locallang.xml:flexform.syntaxHighlighter.htmlscript</label>
+					<config>
+						<type>check</type>
+						<default>0</default>
+					</config>
+				</TCEforms>
+			</htmlscript>
+			<codearea>
+				<TCEforms>
+					<label>LLL:EXT:exl_contentelements/syntaxHighlighter/locallang.xml:flexform.syntaxHighlighter.codearea</label>
+					<config>
+						<type>text</type>
+						<cols>100</cols>
+  						<rows>30</rows>
+					</config>
+				</TCEforms>
+			</codearea>
+			<firstline>
+				<TCEforms>
+					<label>LLL:EXT:exl_contentelements/syntaxHighlighter/locallang.xml:flexform.syntaxHighlighter.firstline</label>
+					<config>
+						<type>input</type>
+						<size>6</size>
+					</config>
+				</TCEforms>
+			</firstline>
+			<highlight>
+				<TCEforms>
+					<label>LLL:EXT:exl_contentelements/syntaxHighlighter/locallang.xml:flexform.syntaxHighlighter.highlight</label>
+					<config>
+						<type>input</type>
+						<size>6</size>
+					</config>
+				</TCEforms>
+			</highlight>
+		</el>
+	</ROOT>
+</T3DataStructure>
+
+
